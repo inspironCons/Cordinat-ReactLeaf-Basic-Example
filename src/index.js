@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import 'leaflet/dist/leaflet.css'
+import 'leaflet-geosearch/dist/geosearch.css';
 
 ReactDOM.render(
   <React.StrictMode>
