@@ -1,5 +1,9 @@
 import React from 'react'
 
+/* 
+    component for render LONG LAT from data maps
+*/
+
 function Detail({data}) {
     return (
         <div className="detail-info">

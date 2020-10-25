@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 
+// maps component
 import MyMapsComponent from './component/myMapsComponent'
 
 function App() {
